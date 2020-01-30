@@ -1,6 +1,7 @@
 body {
     background-color:rgb(96,147,172);
     font-size: 16px;
+    max-width: 960px;
   }
   
   h1 {
@@ -49,5 +50,15 @@ body {
     font-family: 'Franklin Gothic light';
     font-size: 14px;
     color: antiquewhite;
+    
 
   }
+
+  header img {
+    
+     display: block;
+     margin-left: initial;
+
+
+  }
+
