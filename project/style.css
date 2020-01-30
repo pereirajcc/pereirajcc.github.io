@@ -29,9 +29,5 @@ body {
   p {
     font-family: 'Franklin Gothic light';
     font-size: 14px;
+    text-decoration-color: antiquewhite;
   }
-  img {
-    display: block;
-    position: center;
-    
-}
