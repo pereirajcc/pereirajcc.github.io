@@ -4,6 +4,7 @@ body {
   }
   
   h1 {
+    background-color:rgb(183,179,168);
     display: block;
     font-size: 1.5em;
     margin-block-start: 0.83em;
@@ -13,7 +14,7 @@ body {
     font-weight: bold;
   }
   h2 {
-    background-color: #959E74;
+    background-color: rgb(183,179,168);
     display: block;
     font-size: 1.5em;
     margin-block-start: 0.83em;
