@@ -13,7 +13,7 @@ body {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
-    text-align: justify;
+    text-align: center;
     color: antiquewhite;
   }
   h2 {
@@ -25,7 +25,7 @@ body {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
-    text-align: justify;
+    text-align: center;
     color: antiquewhite;
 }
 
@@ -33,6 +33,7 @@ body {
     font-family: 'Franklin Gothic light';
     font-size: 14px;
     color: antiquewhite;
+    text-align: center;
   }
 
   img {
