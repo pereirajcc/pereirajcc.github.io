@@ -12,6 +12,7 @@ body {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    text-align: center;
   }
   h2 {
     background-color: rgb(183,179,168);
@@ -22,6 +23,7 @@ body {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    text-align: center;
 }
 
   p {
