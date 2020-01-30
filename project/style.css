@@ -30,3 +30,12 @@ body {
     font-family: 'Franklin Gothic Medium';
     font-size: 14px;
   }
+  img {
+    display: block;
+    position: relative;
+    left: -50%;
+}
+.wrapper {
+    position: absolute;
+    left: 50%;
+}
