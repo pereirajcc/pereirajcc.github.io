@@ -30,7 +30,9 @@ body {
     text-align: center;
     color: antiquewhite;
 }
-
+ title {
+    margin-left: auto;
+ }
   p {
     font-family: 'Franklin Gothic light';
     font-size: 14px;
