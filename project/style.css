@@ -1,12 +1,28 @@
 body {
     background-color:rgb(96,147,172);
+    font-size: 16px;
   }
   
   h1 {
-    color: rgb() white;
-    text-align: center;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
   }
-  
+  h2 {
+    background-color: #959E74;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+}
   p {
     font-family: verdana;
     font-size: 20px;
