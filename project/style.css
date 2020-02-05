@@ -75,3 +75,10 @@ body {
     border-radius: 50%;
   }
 
+  .motto {
+    font-style: italic;
+    color: antiquewhite;
+    font-size: 1rem;
+    letter-spacing: 1.5pt;
+    font-family: 'Franklin Gothic Medium';
+  }
