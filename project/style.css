@@ -19,11 +19,7 @@ body {
     text-align: left;
     color: antiquewhite;
   }
-    header {
-    background-color: #32541;
-    align-items:center;
-    justify-content:center;
-    }
+
   h2 {
     background-color: rgb(183,179,168);
     display: block;
@@ -81,10 +77,32 @@ body {
     border-radius: 50%;
   }
 
+  
+
+  }
+  
+  header {
+    background-color: #32541;
+    padding: 5px 0;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .headings {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .heading h1 {
+    font-size: 2rem;
+    color: antiquewhite;
+    margin: 0;
+  }
+  
   .motto {
     font-style: italic;
     color: antiquewhite;
     font-size: 1rem;
-    letter-spacing: 1.5pt;
     font-family: 'Franklin Gothic Medium';
   }
