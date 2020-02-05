@@ -1,108 +1,39 @@
 body {
-    background-color:rgb(96,147,172);
-    font-size: 16px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0;
-  }
-  
-  h1 {
-    background-color:rgb(183,179,168);
-    display: block;
-    font-size: 2rem;
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    text-align: left;
-    color: antiquewhite;
-  }
-
-  h2 {
-    background-color: rgb(183,179,168);
-    display: block;
-    font-size: 1.5em;
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    text-align: center;
-    color: antiquewhite;
+  background-color:rgb(96,147,172);
+  font-size: 16px;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
 }
- title {
-    margin-left: auto;
- }
-  p {
-    font-family: 'Franklin Gothic light';
-    font-size: 14px;
-    color: antiquewhite;
-    text-align: center;
-  }
 
-  img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-  }
-  ul {
-    font-family: 'Franklin Gothic light';
-    font-size: 14px;
-    color: antiquewhite;
-  }
-  
-  footer {
-    font-family: 'Franklin Gothic light';
-    font-size: 14px;
-    color: antiquewhite;
-    
+header {
+background-color: navy;
+padding: 5px 0;
+display: flex;
+align-items:center;
+justify-content:center;
+}
 
-  }
+header img {
+width: 125px;
+height: auto;
+}
 
-  header img {
-    
-     display: block;
-     margin-left: initial;
+.headings {
+display: flex;
+flex-direction: column;
+}
 
+.heading h1 {
+font-size: 2rem;
+color: Antiquewhite;
+margin: 0;
+}
 
-  }
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 15px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-  }
-
-  
-
-  }
-  
-  header {
-    background-color: #32541;
-    padding: 5px 0;
-    display: flex;
-    align-items:center;
-    justify-content:center;
-  }
-  
-  .headings {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .heading h1 {
-    font-size: 2rem;
-    color: antiquewhite;
-    margin: 0;
-  }
-  
-  .motto {
-    font-style: italic;
-    color: antiquewhite;
-    font-size: 1rem;
-    font-family: 'Franklin Gothic Medium';
-  }
+.motto {
+font-style: italic;
+color: antiquewhite;
+font-size: 1rem;
+letter-spacing: 1.5pt;
+}
