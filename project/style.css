@@ -105,3 +105,12 @@ footer {
   background-color: #e7c24f;
   font-size: 1.2em;
 }
+.nav_links {
+ list-style: none;
+}
+
+.nav_links li {
+ display: inline-block
+ 
+ }
+
