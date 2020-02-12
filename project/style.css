@@ -61,6 +61,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
 }
 ul {
   font-family: 'Franklin Gothic light';
@@ -72,4 +73,8 @@ footer {
   font-family: 'Franklin Gothic light';
   font-size: 15px;
   color: antiquewhite;
+}
+.logo-box {
+  background-color: white;
+  border-radius: 50px 50px 0 0;   
 }
