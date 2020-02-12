@@ -8,7 +8,7 @@ body {
 }
 
 header {
-background-color: navy;
+background-color: rgb(95,158,160);
 padding: 5px 0;
 display: flex;
 align-items:left;
@@ -27,13 +27,13 @@ flex-direction: column;
 
 .heading h1 {
 font-size: 2rem;
-color: Antiquewhite;
+color:rgb(96,147,172) ;
 margin: 0;
 }
 
 .motto {
 font-style: italic;
-color: antiquewhite;
+color: rgb(96,147,172);
 font-size: 1rem;
 letter-spacing: 1.5pt;
 }
