@@ -19,8 +19,7 @@ body {
   height: 100px;
   background-color: green;
      position: relative;
-     left: 50px;
-      top: -50px; 
+  
       
 }
 
@@ -29,173 +28,11 @@ body {
   height: 100px;
   background-color: gold;
      position: relative;
-     left: 100px;
-      top: -100px;
+
 }
 
 .blue2 {
   width: 100px;
   height: 100px;
   background-color: blue;
-     position: relative;
-     left: 150px;
-      top: -150px;
-}
-
-
-.red3 {
-  width: 1000px;
-     height:100px;
-  background-color: red;
-     
-}
-
-.green3 {
-  width: 400px;
-  height: 300px;
-  background-color: green;
-     position: flex;
-     left: 200px;
-      top: 150px; 
-      
-}
-
-.gold3 {
-  width: 400px;
-  height: 300px;
-  background-color: gold;
-     position: relative;
-     left: 600px;
-      top: -300px;
-}
-
-.blue3 {
-  width: 1000px;
-  height: 100px;
-  background-color: blue;
-    position: relative;
-     left: 0px;
-      top: -300px;
-}
- 
-
-
-.red4 {
-  width: 600px;
-     height:600px;
-  background-color: red;
-     position: relative;
-     top: -300px;
-     
-}
-
-.green4 {
-  width: 400px;
-  height: 200px;
-  background-color: green;
-     position: relative;
-     left: 600px;
-      top: -600px; 
-      
-}
-
-.gold4 {
-  width: 400px;
-  height: 200px;
-  background-color: gold;
-     position: relative;
-     left: 600px;
-      top: -600px;
-}
-
-.blue4 {
-  width: 400px;
-  height: 200px;
-  background-color: blue;
-    position: relative;
-     left: 600px;
-      top: -600px;
-}
-
-
-.red5 {
-  width: 1000px;
-     height:100px;
-  background-color: red;
-     position: relative;
-     top: -300px;
-     
-}
-.gold5 {
-  width: 1000px;
-  height: 400px;
-  background-color: gold;
-     position: relative;
-     left: 000px;
-      top: 00px;
-}
-
-.green5 {
-  width: 200px;
-  height: 200px;
-  background-color: green;
-     position: relative;
-     left: 0px;
-      top: -500px; 
-      
-}
-
-.blue5 {
-  width: 1000px;
-  height: 100px;
-  background-color: blue;
-    position: relative;
-     left: 000px;
-      top: -300px;
-}
-.text {
-width: 1000px;
-  height: 100px;
-   position: relative;
-     left: 000px;
-      top: -400px;
- 
-}
-
-
-.red6 {
-  width: 500px;
-     height:300px;
-  background-color: red;
-     
-}
-
-
-
-.gold6 {
-  width: 200px;
-  height: 600px;
-  background-color: gold;
-     position: relative;
-     left: 500px;
-      top: -500px;
-}
-
-.blue6 {
-  width: 500px;
-  height: 500px;
-  background-color: blue;
-    position: relative;
-     left: 100px;
-      top: -200px;
-}
-
-.green6 {
-  width: 200px;
-  height: 200px;
-  background-color: green;
-     position: relative;
-     left: 00px;
-      top: -900px; 
-      
 }
