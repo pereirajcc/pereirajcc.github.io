@@ -5,11 +5,7 @@ body {
   font-family: 'Courier New', Courier, monospace
 }
 
-/* Activity 1 styles */
-.content2 {
-  display: grid;
-  
-}
+
 
 .red2 {
   width: 100px;
@@ -45,9 +41,7 @@ body {
      left: 150px;
       top: -150px;
 }
-.content3 {
- position: relative; 
-}
+
 
 .red3 {
   width: 1000px;
@@ -83,9 +77,8 @@ body {
      left: 0px;
       top: -300px;
 }
-.content4 {
- display: grid; 
-}
+ 
+
 
 .red4 {
   width: 600px;
@@ -123,9 +116,7 @@ body {
      left: 600px;
       top: -600px;
 }
-.content5 {
-  display: grid
-}
+
 
 .red5 {
   width: 1000px;
@@ -170,9 +161,7 @@ width: 1000px;
       top: -400px;
  
 }
-.content6 {
- position: relative; 
-}
+
 
 .red6 {
   width: 500px;
