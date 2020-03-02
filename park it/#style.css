@@ -11,6 +11,9 @@
    background-size: cover;
    background-position: center;
    background-attachment: fixed;
+   padding-top: 30px;
+   text-align: center;
+   color: #fff;
 }
 .header img 
 {
@@ -27,4 +30,16 @@
     border-radius: 50px;
     background: transparent;
     color: #fff;
+    float:right;
+
+ }
+
+ .header h1 {
+     padding-top: 200px;
+     padding-bottom: 0;
+     font-size: 55px;
+ }
+
+ .header p{
+     margin: 18px 0;
  }
