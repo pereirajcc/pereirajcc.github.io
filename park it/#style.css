@@ -43,3 +43,31 @@
  .header p{
      margin: 18px 0;
  }
+
+ .input-group
+ {
+     width: 90%;
+     max-width: 500px;
+     border-radius:  30px; 
+     background: #fff;
+     margin: auto;
+     padding: 2px;
+ }
+
+ .form-control {
+     border: 0 !important;
+     border-radius: 30px  !important;
+     margin: 2px;
+     box-shadow: none !important;
+     }
+
+.input-group-text 
+{
+    width: 100px;
+    background-image: linear-gradient(#00ff7e,#1f3d90);
+    border:0 !important;
+    color: #fff !important;
+    padding: 0 25px !important;
+    border-radius: 30px !important;
+    box-shadow: none !important;
+}
