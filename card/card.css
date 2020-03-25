@@ -1,0 +1,21 @@
+.img {
+    max-width: 100%;
+  }
+ .card {
+      width: 320px;
+   box-shadow: 1px 1px 4px 1px #888;
+   border-radius: 3px;
+   background-color: white;
+ }
+ .card-text {
+     font-style: helvetica;
+
+ }
+
+ .div {
+    border: 3px 0 0 3px;
+    padding: 10px;
+    border-radius: 25px; 
+    overflow: hidden;
+    color:#888
+}
