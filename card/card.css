@@ -1,15 +1,39 @@
 .img {
-    max-width: 100%;
-  }
- .card {
-      width: 320px;
-   box-shadow: 1px 1px 4px 1px #888;
-   border-radius: 3px;
-   background-color: white;
- }
- .card-text {
-     font-style: helvetica;
+  max-width: 100%;
+}
+.card-body {
+ width: 320px;
+ box-shadow: 1px 1px 4px 1px #888;
+ border-radius: 3px;
+ background-color: white;
+   padding: 5px 0px 5px 0px
+}
+.card-text {
+   font-style: helvetica;
+   padding: 7px
+}
 
- }
+.card-link {
+  padding: 3px;
+ width: 320px;
+ box-shadow: 1px 1px 1px 1px #888;
+ border-radius: 2px;
+ background-color: white;
+  color: #888;
+  font-style: helvetica
+}
+
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
 
  
